@@ -6,5 +6,9 @@
   "repeat_field": {
     "asset_type": "video",
     "asset_url": "https://www.youtube.com/embed/Z5kZtpoQXdg?si=n5y4ASXB0iZLgISS&amp;controls=0"
+  },
+  "date_field": {
+    "asset_type": "image",
+    "asset_url": "https://raw.githubusercontent.com/weDevsOfficial/wpuf-util/refs/heads/master/pro-assets/country.png"
   }
 }
