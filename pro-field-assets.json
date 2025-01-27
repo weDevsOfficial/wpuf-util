@@ -1,7 +1,7 @@
 {
   "google_map": {
     "asset_type": "image",
-    "asset_url": ""
+    "asset_url": "https://raw.githubusercontent.com/weDevsOfficial/wpuf-util/refs/heads/master/pro-assets/google_map.png"
   },
   "repeat_field": {
     "asset_type": "video",
