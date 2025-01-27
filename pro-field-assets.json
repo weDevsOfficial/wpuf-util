@@ -5,6 +5,6 @@
   },
   "repeat_field": {
     "asset_type": "video",
-    "asset_url": "<iframe src=\"https://www.youtube.com/embed/Z5kZtpoQXdg?si=n5y4ASXB0iZLgISS&amp;controls=0\" title=\"WPUF Repeat Field\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "asset_url": "https://www.youtube.com/embed/Z5kZtpoQXdg?si=n5y4ASXB0iZLgISS&amp;controls=0"
   }
 }
