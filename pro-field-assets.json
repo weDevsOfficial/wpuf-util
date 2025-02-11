@@ -1,14 +1,14 @@
 {
   "google_map": {
-    "asset_type": "image",
-    "asset_url": "https://raw.githubusercontent.com/weDevsOfficial/wpuf-util/refs/heads/master/pro-assets/google_map.png"
-  },
-  "repeat_field": {
     "asset_type": "video",
-    "asset_url": "https://www.youtube.com/embed/Z5kZtpoQXdg?si=n5y4ASXB0iZLgISS&amp;controls=0"
+    "asset_url": "https://www.youtube.com/embed/FQYNFScgRGo?si=ynLTo6l9BNxKUITC"
   },
-  "date_field": {
-    "asset_type": "image",
-    "asset_url": "https://raw.githubusercontent.com/weDevsOfficial/wpuf-util/refs/heads/master/pro-assets/country.png"
+  "qr_code": {
+    "asset_type": "video",
+    "asset_url": "https://www.youtube.com/embed/yk1C7qneaoY?si=9fr1wopoHJu3cyFB"
+  },
+  "conditional_logic": {
+    "asset_type": "video",
+    "asset_url": "https://www.youtube.com/embed/94MzpluK3bU?si=Sum-hZP1JgRZZCDT"
   }
 }
