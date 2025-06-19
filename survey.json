@@ -1,4 +1,4 @@
 {
   "banner_image": "https://raw.githubusercontent.com/weDevsOfficial/wpuf-util/refs/heads/master/images/survey-banner.png",
-  "message": "<strong>What Payment Options Do You Want in WP User Frontend?</strong><br>We already support PayPal and Stripe.<br>Now it\’s your turn to decide what comes next.<br>💬Quick 30-second survey — open for <strong>15 days only!</strong><br>👉<a href="https://docs.google.com/forms/d/e/1FAIpQLSevulrVKPVpeMH4hGOROdTFsYtrM1xCJswmIusOT5kfcG-Qaw/viewform?usp=dialog">Submit Your Preferences</a>"
+  "message": "<strong>What Payment Options Do You Want in WP User Frontend?</strong><br>We already support PayPal and Stripe.<br>Now it\’s your turn to decide what comes next.<br>💬Quick 30-second survey — open for <strong>15 days only!</strong><br>👉<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSevulrVKPVpeMH4hGOROdTFsYtrM1xCJswmIusOT5kfcG-Qaw/viewform?usp=dialog\">Submit Your Preferences</a>"
 }
