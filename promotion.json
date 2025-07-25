@@ -1,9 +1,9 @@
 {
-  "key": "WDVSBirthday25",
-  "start_date": "2025-03-18 9:00:00 EST",
-  "end_date": "2025-03-30 12:00:00 EST",
-  "title": "It’s our Anniversary  🎉",
-  "content": "Unlock all premium features with up to 40% discount now!",
-  "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/?utm_source=wpbanner&utm_medium=wpdashboard&utm_campaign=anniversary25_sale&utm_id=weAnniversary25Campaign",
-  "action_title": "Grab The Deal Now"
+  "key": "SmartSavingWeek",
+  "start_date": "2025-07-24 9:00:00 EST",
+  "end_date": "2025-07-31 12:00:00 EST",
+  "title": "Smart Saving Campaign - Ends on 31st July!  🎉",
+  "content": "Unlock all premium features with up to 35% discount now!",
+  "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/?utm_source=wp-dashboard&utm_medium=notice&utm_campaign=saving_week_july",
+  "action_title": "Grab the Deal"
 }
