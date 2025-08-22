@@ -1,9 +1,9 @@
 {
   "key": "SmartSavingWeek",
-  "start_date": "2025-07-24 9:00:00 EST",
-  "end_date": "2025-07-31 12:00:00 EST",
-  "title": "Smart Saving Campaign - Ends on 31st July!  🎉",
-  "content": "Unlock all premium features with up to 35% discount now!",
-  "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/?utm_source=wp-dashboard&utm_medium=notice&utm_campaign=saving_week_july",
-  "action_title": "Grab the Deal"
+  "start_date": "2025-08-22 8:00:00 EST",
+  "end_date": "2025-08-25 8:00:00 EST",
+  "title": "Join Our User Testing Program – Try the New User Directory Before Anyone Else!",
+  "content": "Gain early access to our redesigned User Directory and help us refine the final release with your feedback.",
+  "action_url": "https://wedevs.com/wp-user-frontend-pro/test-user-directory/",
+  "action_title": "Sign Me Up for Testing"
 }
