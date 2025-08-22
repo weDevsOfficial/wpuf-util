@@ -1,9 +1,9 @@
 {
-  "key": "SmartSavingWeek",
+  "key": "EarlyAccessUD",
   "start_date": "2025-08-22 8:00:00 EST",
   "end_date": "2025-08-25 8:00:00 EST",
-  "title": "Join Our User Testing Program – Try the New User Directory Before Anyone Else!",
-  "content": "Gain early access to our redesigned User Directory and help us refine the final release with your feedback.",
+  "title": "Gain early access to our redesigned User Directory and help us refine the final release with your feedback.",
+  "content": "Join Our User Testing Program – Try the New User Directory Before Anyone Else!",
   "action_url": "https://wedevs.com/wp-user-frontend-pro/test-user-directory/",
   "action_title": "Sign Me Up for Testing"
 }
