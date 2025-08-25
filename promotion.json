@@ -1,9 +1,9 @@
 {
-  "key": "EarlyAccessUD",
-  "start_date": "2025-08-22 8:00:00 EST",
-  "end_date": "2025-08-25 8:00:00 EST",
-  "title": "Gain early access to our redesigned User Directory and help us refine the final release with your feedback.",
-  "content": "Join Our User Testing Program – Try the New User Directory Before Anyone Else!",
-  "action_url": "https://wedevs.com/wp-user-frontend-pro/test-user-directory/",
-  "action_title": "Sign Me Up for Testing"
+  "key": "August-Sale",
+  "start_date": "2025-08-25 09:00:00 EST",
+  "end_date": "2025-08-30 12:00:00 EST",
+  "title": "WP User Frontend Pro Just Got More Affordable – Up to 35% Off!",
+  "content": "Manage everything from the frontend. For a limited time, grab up to 35% OFF on Annual and Lifetime plans. Don't wait, the savings disappear soon!",
+  "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/?utm_source=wp-dashboard&utm_medium=notice&utm_campaign=august-sales",
+  "action_title": "Yes, I Want This Deal"
 }
