@@ -1,9 +1,9 @@
 {
-  "key": "BFCM_Sale",
-  "start_date": "2025-11-24 9:00:00 EST",
-  "end_date": "2025-12-05 12:00:00 EST",
-  "title": "Biggest Cyber Monday Deals → Up to 45% OFF!",
-  "content": "Buy now to save $358 and get over $200 in free licenses.",
+  "key": "Holiday_Sale",
+  "start_date": "2025-12-17 9:00:00 EST",
+  "end_date": "2025-12-20 12:00:00 EST",
+  "title": "Holiday Surprise Sale → Act Now to Save the Most!",
+  "content": "The more you wait, the more you pay. 40% OFF is available for only 48 hours. After that, the discount drops and the price goes up."
   "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/",
   "action_title": "Grab your offer →"
 }
