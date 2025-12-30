@@ -1,7 +1,7 @@
 {
   "key": "Holiday_Sale",
   "start_date": "2025-12-17 9:00:00 EST",
-  "end_date": "2026-01-02 12:00:00 EST",
+  "end_date": "2025-12-31 12:00:00 EST",
   "title": "Holiday Surprise Sale → Act Now to Save the Most!",
   "content": "The more you wait, the more you pay. 35% OFF is available for only 72 hours. After that, the discount drops and the price goes up."
   "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/",
