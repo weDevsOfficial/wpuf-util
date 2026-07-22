@@ -1,9 +1,9 @@
 {
-  "key": "Summer2026_Sale",
-  "start_date": "2026-07-07 03:00:00 EST",
-  "end_date": "2026-07-21 12:00:00 EST",
-  "title": "Summer Sale — Save Up to 35% on WP User Frontend Pro",
-  "content": "Build frontend post submission forms, user registration forms, memberships, subscriptions, and user directories—all with WP User Frontend Pro.",
-  "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/",
-  "action_title": "Claim Your Discount →"
+  "key": "Public_Feedback_Roadmap_2026",
+  "start_date": "2026-07-22 00:00:00 EST",
+  "end_date": "2026-08-31 11:59:59 EST",
+  "title": "Help Shape WP User Frontend",
+  "content": "Submit feature requests, vote on ideas from the community, and track what's planned, in progress, and already shipped—all in our public roadmap.",
+  "action_url": "https://feedback.wedevs.com/b/user-frontend",
+  "action_title": "Explore the Roadmap →"
 }
