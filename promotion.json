@@ -1,9 +1,9 @@
 {
-  "key": "WPUF-BlackFriday-2026",
+  "key": "WPUF-BF26",
   "start_date": "2026-11-05 00:00:00 EST",
   "end_date": "2026-11-29 23:59:59 EST",
   "title": "Black Friday: Save Up to 45% on WP User Frontend Pro",
-  "content": "<div style='background:linear-gradient(120deg,#04100a,#0d2c1b);border-left:5px solid #00a651;border-radius:8px;padding:14px 18px;margin-top:8px;color:#d9ece1;font-size:14px;line-height:1.55;'><span style='display:inline-block;background:#7df5b8;color:#04100a;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;border-radius:999px;padding:4px 10px;margin-bottom:8px;'>Black Friday</span><br>Build frontend forms, user registration, memberships, subscriptions, and user directories with WP User Frontend Pro. Early Bird prices are the lowest of the year.</div>",
+  "content": "Build frontend forms, user registration, memberships, subscriptions, and user directories with WP User Frontend Pro. Early Bird prices are the lowest of the year.",
   "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/?utm_source=wpuf-plugin&utm_medium=admin-notice&utm_campaign=bf-2026&utm_content=cta-primary",
   "action_title": "Grab the Deal →"
 }
